@@ -1,6 +1,6 @@
 # Email Project
 
-One of the HTML Email Projects utilizing Foundation for Email Framework, SASS, gulp and babel. The email is fully responsive and tested on most major clients. 
+One of the HTML Email Projects utilizing Foundation for Email Framework, SASS, gulp and babel. The email design is fully responsive and tested on the majority of popular email clients. 
 
 ## Reference
 [Foundation for Email](https://foundation.zurb.com/emails.html)
